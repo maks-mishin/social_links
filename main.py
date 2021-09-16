@@ -45,3 +45,4 @@ if __name__ == '__main__':
     query = argv[1]
     result = get_profile_data_json(query)
     print(result)
+
